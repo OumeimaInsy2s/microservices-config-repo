@@ -3,7 +3,7 @@ app:
   jwtExpirationMs: 86400000
 spring:
   application:
-    name: user-service
+    name: Security_Service
 
 
   # Database
